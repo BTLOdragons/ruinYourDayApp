@@ -7,7 +7,7 @@ ___
 - main.css
 - .gitignore
 - .env
-- package.json
+- Map Data with json
 - README.md
 
 ### Intsructions
